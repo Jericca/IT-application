@@ -1,5 +1,2 @@
-# IT-application
-Hello
-Hi
+kokoo
 
-Byee
